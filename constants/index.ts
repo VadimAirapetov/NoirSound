@@ -474,7 +474,7 @@ export const footerTermsItem = [
             },
             {
                 id: 6,
-                title: "Вадим Айрапетов",
+                title: "Вадим Тураев",
                 href: "/"
             },
             {
